@@ -9,6 +9,9 @@ pip install PyQt5 opencv-python
 주의
 - 고해상도/다중 모니터 환경에서는 FPS를 낮추거나 캡쳐 영역을 줄이세요.
 - 오디오 녹음은 포함하지 않습니다. (필요 시 pyaudio/ffmpeg 파이프 조합 권장)
+
+
+UI없이 한파일로 실행 하는 파일
 """
 
 import sys
